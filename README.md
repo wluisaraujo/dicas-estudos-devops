@@ -10,8 +10,8 @@ A ideia é criar um conjunto de dicas para estudos, referente as práticas DevOp
 - [ ] Descomplicando o Iac/Terraform
 - [ ] Descomplicando o Docker
 - [ ] Descomplicando AWS
+- [ ] Descomplicando o AWS/EKS
 - [ ] Descomplicando o Kubernetes
 - [ ] Descomplicando o GitHub
 - [ ] Descomplicando o Prometheus
-- [ ] Descomplicando o AWS/EKS
 - [ ] Descomplicando Soft Skills
