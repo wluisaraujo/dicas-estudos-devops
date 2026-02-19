@@ -10,6 +10,7 @@ A ideia é criar um conjunto de dicas para estudos, referente as práticas DevOp
 - [ ] [Dicas GitHub](https://github.com/wluisaraujo/dicas-estudos-devops-github) :octocat:
 - [ ] [Dicas AWS](https://github.com/wluisaraujo/dicas-estudos-devops-aws) :cloud:
 - [ ] [Dicas Iac/Terraform](https://github.com/wluisaraujo/dicas-estudos-devops-iac-terraform) :hammer:
+- [ ] [Dicas Iac/Ansible](https://github.com/wluisaraujo/dicas-estudos-devops-iac-ansible) :hammer:
 - [ ] [Dicas Docker](https://github.com/wluisaraujo/dicas-estudos-devops-docker) :whale:
 - [ ] [Dicas Kubernetes](https://github.com/wluisaraujo/dicas-estudos-devops-k8s) ☸️
 - [ ] [Dicas AWS/EKS](https://github.com/wluisaraujo/dicas-estudos-devops-aws-eks) 🚢
