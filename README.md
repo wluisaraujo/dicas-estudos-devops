@@ -7,11 +7,11 @@ A ideia é criar um conjunto de dicas para estudos, referente as práticas DevOp
 
 - [ ] [Descomplicando o DevOps](https://github.com/wluisaraujo/dicas-estudos-devops)
 - [ ] Linux
+- [ ] Descomplicando o GitHub
 - [ ] Descomplicando o Iac/Terraform
 - [ ] Descomplicando o Docker
 - [ ] Descomplicando AWS
-- [ ] Descomplicando o AWS/EKS
+- [ ] Descomplicando AWS/EKS
 - [ ] Descomplicando o Kubernetes
-- [ ] Descomplicando o GitHub
 - [ ] Descomplicando o Prometheus
 - [ ] Descomplicando Soft Skills
