@@ -5,7 +5,7 @@ A ideia é criar um conjunto de dicas para estudos, referente as práticas DevOp
 
 **RoadMap**
 
-- [ ] [Dicas o DevOps](https://github.com/wluisaraujo/dicas-estudos-devops) :construction:
+- [ ] [Dicas DevOps](https://github.com/wluisaraujo/dicas-estudos-devops) :construction:
 - [ ] [Dicas Linux](https://github.com/wluisaraujo/dicas-estudos-devops-linux) :penguin: 
 - [ ] [Dicas GitHub](https://github.com/wluisaraujo/dicas-estudos-devops-github) :octocat:
 - [ ] [Dicas AWS](https://github.com/wluisaraujo/dicas-estudos-devops-aws) :cloud:
