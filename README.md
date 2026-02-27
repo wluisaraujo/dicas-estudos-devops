@@ -29,6 +29,7 @@ A ideia é criar um conjunto de dicas para estudos, referente as práticas DevOp
 #### Ideias Futuras
 - [ ] Dicas Inteligência Artificial
 - [ ] Dicas Security
+  - https://hackersdobem.org.br
 
 ---
 
