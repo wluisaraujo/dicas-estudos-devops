@@ -245,10 +245,24 @@ _pkginfo.txt
 # but keep track of directories ending in .cache
 !?*.[Cc]ache/
 
+# Linux 
+*~
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+# Crash log files
+crash.log
+crash.*.log
+
 # Others
 ClientBin/
 ~$*
-*~
 *.dbmdl
 *.dbproj.schemaview
 *.jfm
